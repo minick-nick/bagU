@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bagU</string>
+    <string name="coffee_shops">Coffee shops</string>
+    <string name="restaurants">Restaurant</string>
+    <string name="parks">Parks</string>
+    <string name="shopping_centers">Shopping centers</string>
+</resources>
