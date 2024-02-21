@@ -1,7 +1,180 @@
 <resources>
     <string name="app_name">bagU</string>
     <string name="coffee_shops">Coffee shops</string>
-    <string name="restaurants">Restaurant</string>
+    <string name="restaurants">Restaurants</string>
     <string name="parks">Parks</string>
     <string name="shopping_centers">Shopping centers</string>
+    <string name="name">Name: %s</string>
+    <string name="address">Address: %s</string>
+    <string name="mobile_number">Mobile #: %s</string>
+
+    <string name="cafe_de_angelo">Cafe de Angelo</string>
+    <string name="cafe_de_angelo_info">
+        Cafe de Angelo is a quaint coffee shop tucked in a dainty garden along. This garden
+        cafe is a popular spot for locals and tourists to hang out and spend a chill afternoon.
+        Take your pick from their house blends—De Angelo Blend, Barako, and Italian Roast—to go
+        with your choice of comfort food like their Zoolander Burger and Chicharon Pasta for
+        your midday fill.
+    </string>
+    <string name="cafe_de_angelo_address">54 Chapis Village, Marcos Highway, Baguio City</string>
+    <string name="cafe_de_angelo_contact_number">0915 345 4855 or 0905 487 9711</string>
+
+    <string name="cafe_by_the_ruins">Cafe by the Ruins</string>
+    <string name="cafe_by_the_ruins_info">
+        Cafe by the Ruins was rebuilt into a romantic, modern cafe, reclaiming its title as
+        one of the. A visit to this iconic cafe is not complete without trying their signature
+        Ruins Coffee infused with cinnamon and cardamom that\'s sure to uplift your mood.
+        Plus, you can take home-baked pastries like Luisa\'s Ensaymada and Ernie\'s
+        Camote Bread that are sure to be a hit with the family!
+    </string>
+    <string name="cafe_by_the_ruins_address">25 Shuntug Rd, Baguio City</string>
+    <string name="cafe_by_the_ruins_contact_number">(074) 442 4010</string>
+
+    <string name="cafe_yagam">Cafe Yagam</string>
+    <string name="cafe_yagam_info">
+        Taste the best Arabica coffee in the Philippines at Cafe Yagam, one of the most beloved
+        cafes in Baguio. This well-loved coffee shop permanently closed its store last September
+        due to the pandemic but opened a new stall called Nest Coffee Roasters two months
+        later—much to the delight of its loyal patrons. This new stall located in Calle Uno
+        serves coffee and pastries to those who missed and want to taste. The cafe\ns new small
+        and humble red-bricked stall allows the coffee to take center stage. If you happen to
+        be in Baguio, don\nt forget to drop by, grab a cup of coffee, and take a bag of Yagam
+        Coffee home!
+    </string>
+    <string name="cafe_yagam_address">
+        Calle Uno Building, #3 Escoda (First Road) cor. Naguilian Road, Quezon Hill, Baguio City
+    </string>
+
+    <string name="ihawjuan">IhawJuan</string>
+    <string name="ihawjuan_info">
+        If you like grilled food, then you would love to know that there\'s a place in Baguio
+        where not only can you get unlimited, but you also get to grill the food yourself!
+        For P199 for lunch and P249 for dinner, you can get to grill food all you want at
+        IhawJuan. There is a wide selection of meat, vegetables, seafood, and grilling and
+        dipping sauces at the counter. Fried rice, plain rice, and soup are unlimited too.
+    </string>
+    <string name="ihawjuan_address">
+        Ground Floor, Blue Mountain Hotel, 18 Marcos
+        Highway, Baguio City
+    </string>
+    <string name="ihawjuan_contact_number">09774035575</string>
+
+    <string name="te_quiero_tapas_bar">Te Quiero Tapas Bar</string>
+    <string name="te_quiero_tapas_bar_info">
+        Te Quiero Tapas Bar offers unlimited tapa for P350 every Friday.
+        Enjoy free live acoustic music during Tapas Nights.
+    </string>
+    <string name="te_quiero_tapas_bar_address">
+        Microtel Inns and Suites, Upper Session Road, Baguio City
+    </string>
+    <string name="te_quiero_tapas_bar_contact_number">(074) 619 3333</string>
+
+    <string name="omai_khan">O\'Mai Khan</string>
+    <string name="omai_khan_info">
+        Have your own platter of Mongolian Barbeque for P210. If you plan to eat in groups,
+        try O\'Mai Khan\'s Mongolian Hot Pot, which is P420, good for 4 people.
+    </string>
+    <string name="omai_khan_address"> Upper Session Road, Baguio City</string>
+    <string name="omai_khan_contact_number">(074) 442 5885</string>
+
+    <string name="burnham_park">Burnham Park</string>
+    <string name="burnham_park_info">
+        Burnham Park is a large city park located in front of The Melvin Jones Grandstand,
+        in Baguio City, Philippines. There are many activities to be enjoyed by visitors,
+        such as boating on the man-made lake, skateboarding and riding rides on the amusement
+        park\'s kiddie rides, eating strawberry taho and other local delicacies at food stalls,
+        or picnicking under the pine trees.
+    </string>
+    <string name="burnham_park_address">Jos Abad Santos Drive, Baguio City</string>
+
+    <string name="wright_park">Wright Park</string>
+    <string name="wright_park_info">Located in the heart of Baguio City, The Wright Park is a
+        tranquil natural area that is perfect for nature lovers and those who want to get some
+        exercise. There are several walking trails and horseback riding opportunities available,
+        making it an ideal place to spend a day out.
+    </string>
+    <string name="wright_park_address">The Mansion, Romulo Drive, Baguio City</string>
+
+    <string name="baguio_botanical_garden">Baguio Botanical Garden</string>
+    <string name="baguio_botanical_garden_info">
+        The Baguio Botanical Garden is a beautiful spot in the city where visitors can explore
+        a variety of plants and flowers. The park has a variety of different areas, including
+        individual pavilions dedicated to the cities that Baguio shares relationships with.
+        There are also plenty of benches to relax on and activities to do, like taking a lunch
+        break or exploring the gardens. If you\'re interested in nature then this is definitely
+        a place you should visit.
+    </string>
+    <string name="baguio_botanical_garden_address">37 Leonard Wood Rd, Baguio City</string>
+
+    <string name="atonement_cathedral">
+        Our Lady of the Atonement Cathedral (Diocese of Baguio)
+    </string>
+    <string name="atonement_cathedral_info">
+        The catholic cathedral in Baguio City, Philippines is a stunning building with
+        distinctive pink façade and rose window. It is popular for its beauty and is one
+        of the top tourist destinations in Baguio City.
+    </string>
+    <string name="atonement_cathedral_address">
+        2600 Steps To Our Lady Of Atonement Cathedral, Baguio City
+    </string>
+
+    <string name="bell_church">Bell Church</string>
+    <string name="bell_church_info">
+        The Bell Church is a Buddhist temple located in the town of La Trinidad, halfway
+        between Baguio City and the city of La Trinidad, in the Philippines. The
+        temple features Taoist architecture alongside some Buddhist features, and is
+        a popular tourist destination due to its tranquil environment and views from
+        the courtyard. A small lily pond is included.
+    </string>
+    <string name="bell_church_address">
+        Bell Church Rd, La Trinidad, Benguet
+    </string>
+
+    <string name="sm_city_baguio">SM City Baguio</string>
+    <string name="sm_city_baguio_info">
+        Baguio isn\'t immune to the infectious shopping bug that SM Super-malls brings to the
+        country’s major cities with the existence of SM City Baguio.
+
+        \n\nLocated in Luneta Hill in Upper Session Road, SM City Baguio opened in 2003 and since
+        then has been the largest shopping mall in the whole North Luzon region. It is also
+        the only mall to not utilize a central air-conditioning system and the second mall
+        to make use of natural lighting, the other being the SM Mall of Asia.
+
+        \n\nIt has all the makings of your usual SM mall: a food court filled with different fusion
+        cuisines; an activity area where they host lively local events; a department store;
+        as well as multiple levels dedicated to beauty and well-being, appliance and home needs,
+        and gadget and tech retails. What sets it apart, though, is the stunning view from
+        each level\'s balconies where you can see Burnham Park, Baguio Cathedral, and even
+        Session Road. It is also home to the only DFA passport office in the Cordillera region.
+    </string>
+    <string name="sm_city_baguio_address">
+        Luneta Hill, Upper Session Road, Baguio City
+    </string>
+
+    <string name="porta_vaga_mall">Porta Vaga Mall</string>
+    <string name="porta_vaga_mall_info">
+        Session Road in Baguio is considered as the city\'s cauldron of business and trade,
+        where merchants big and small open shop to the teeming tourists and shoppers.
+        Due to shopping centers like the famous Porta Vaga Mall, which opened in 2002,
+        business in Session Road is always alive.
+    </string>
+    <string name="porta_vaga_mall_address">Porta Vaga, Session Road, Baguio City</string>
+
+    <string name="tiong_san_harrison">Tiong San Harrison</string>
+    <string name="tiong_san_harrison_info">
+        Some businesses in Baguio have existed long enough that they have been a pillar of
+        what has been deemed the \"Baguio City Experience.\" Such a pillar is Tiong San,
+        who dubs itself \"Suki ng Bayan\" (the people\'s favorite).
+
+        \n\nAnd why shouldn\'t it? Tiong San has been operating for over seven decades among
+        three generations of proprietors, building a sense of trust and value for shoppers
+        in the region along the way.
+
+        \n\nCurrently, Tiong San shopping center caters to a vast array of local and global brands,
+        from apparel to houseware to tech peripherals. They also have their own full-range
+        supermarkets and meat shops. Tiong San has also partnered with government agencies
+        and local government units to promote local industry, environmental sustainability,
+        and entrepreneurship.
+    </string>
+    <string name="tiong_san_harrison_address">Harrison Road, Baguio City</string>
 </resources>
